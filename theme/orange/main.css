@@ -1,0 +1,82 @@
+.menu_table
+{
+ position: absolute;
+ z-index: 100;
+ display:none;
+ BORDER:1PX SOLID #506585;
+ FILTER:PROGID:DXIMAGETRANSFORM.MICROSOFT.SHADOW(COLOR=#C0C0C0, DIRECTION=150, STRENGTH=4);
+ Margin-bottom: 0px; Margin-top: 0px; Margin-left: 0px; Margin-right: 0px;
+ Padding-bottom: 1px; Padding-top: 1px; Padding-left: 1px; Padding-right: 1px;
+ BackGround-color: #F7F9FB;
+ Width:150;
+}
+.menu_def
+{
+ Text-align: left;
+ Padding-top: 2px; Padding-right: 3px;
+ Padding-bottom: 2px; Padding-left: 1px;
+ BackGround-color: #E9EEEF;
+ BORDER:0PX;
+ CURSOR:hand;
+ Font-Family: Verdana, SANS-SERIF;
+ Font-size: 11px;
+ WHITE-SPACE:NOWRAP;
+ color: #506585;
+}
+.menu_hover
+{
+ Text-align: left;
+ Padding-top: 2px; Padding-right: 3px;
+ Padding-bottom: 2px; Padding-left: 1px;
+ BackGround-color: #F9F9F9;
+ BORDER:0PX;
+ CURSOR:hand;
+ Font-Family: Verdana, SANS-SERIF;
+ Font-size: 11px;
+ WHITE-SPACE:NOWRAP;
+ color: #506585;
+}
+input,select
+{
+ height:20;
+ Font-Family: Arial;
+ Font-size: 12px;
+ Border-color: #CA0000;
+ Border-style: solid;
+ Border-width: 1px;
+ BackGround-color: #FFEFDF;
+}
+
+button
+{
+ cursor:hand;
+ Border-width: 0px;
+ width:84;
+ height:20;
+ Background:url('img/button.gif');
+ BackGround-position: center center;
+ BackGround-Repeat: no-repeat;
+ Font-Family: Arial;
+ Font-size: 12px;
+ Letter-spacing: 1px;
+ Text-align: center;
+ Margin-top: 0px; Margin-right: 0px;
+ Margin-bottom: 0px; Margin-left: 0px;
+ Padding-top: 2px; Padding-right: 0px;
+ Padding-bottom: 0px; Padding-left: 0px;
+}
+
+A
+{
+ Font-Family: Verdana, serif;
+ Font-size: 12px;
+ Text-decoration: none;
+ color: #BB5E00;
+}
+
+A:hover
+{
+ Font-Family: Verdana, serif;
+ Text-decoration: underline;
+ color: #BB5E00;
+}

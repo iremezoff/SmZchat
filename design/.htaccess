@@ -1,0 +1,6 @@
+<files footer.tpl>
+deny from all
+</files>
+<files header.tpl>
+deny from all
+</files>
